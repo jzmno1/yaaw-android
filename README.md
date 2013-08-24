@@ -60,8 +60,8 @@ Components
 + [jQuery](http://jquery.com/)
 + [jQuery Storage](http://archive.plugins.jquery.com/project/html5Storage)
 + [JSON RPC 2.0 jQuery Plugin](https://github.com/datagraph/jquery-jsonrpc)
-+ [PhoneGap 2.9.0](https://github.com/phonegap/phonegap)
-+ [PhoneGap 2.9.0](https://github.com/phonegap/phonegap-plugins)
++ [PhoneGap](https://github.com/phonegap/phonegap)
++ [PhoneGap-plugins](github.com/phonegap/phonegap-plugins)
 
 License
 -------
