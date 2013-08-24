@@ -13,7 +13,7 @@ I'll be needing developer privilege for Windows Phone and iOS otherwise I can't 
 
 But I can provide iOS app signed with debug keys, if you want it, please open an issue and give me some time.
 
-~~ yaaw-android work with Aria2 1.41: https://www.box.com/s/h47cqmloqheuk1d5qysq~~
+~~yaaw-android work with Aria2 1.41: https://www.box.com/s/h47cqmloqheuk1d5qysq~~
 
 Try new Android version instead if you're running Aria2 1.61 or above.
 
