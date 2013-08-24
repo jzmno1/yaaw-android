@@ -7,25 +7,25 @@ Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt.
 
 Then packed into native mobile OS apps using PhoneGap. Faster and more convenient.
 
-Currently only Android and Windows Phone 7 version available.
+Currently only Android version available.
 
-~~Android: https://www.box.com/s/h47cqmloqheuk1d5qysq
+I'll be needing developer privilege for Windows Phone and iOS otherwise I can't make apps for them. And, sadly those are not free.
+
+But I can provide iOS app signed with debug keys, if you want it, please open an issue and give me some time.
+
+~~ yaaw-android work with Aria2 1.41: https://www.box.com/s/h47cqmloqheuk1d5qysq~~
 
 Try new Android version instead if you're running Aria2 1.61 or above.
 
-WP7: https://www.box.com/s/7rp5fkhup4vdeimf6grx
+WP7: https://www.box.com/s/7rp5fkhup4vdeimf6grx (debug key used)
 
 Updated as YAAW pulled:
 
-Be aware! Following versions do not support Aria2 1.41, might be OK if you're using 1.61 or above. New version includes new PhoneGap core and respond faster.
+Be awared! Following versions do not support Aria2 1.41, might be OK if you're using 1.61 or above. New version includes new PhoneGap core and respond faster.
 
 Android: https://github.com/jokies/yaaw-android
 
-~~Sadly, this is as far as I go, this project will be discontiuned from now on. It was proved to me that Aria2 1.61 complied directly from the source code for openwrt will not restore the task paused or failed properly so I no more use this util. So, nor do I need its frontend anymore.~~
-
 The newly released Aria2 1.71 worked like a charm, I recommend everybody reading this try it out immediately.
-
-The source code for Android Project now uploaded separately. Find it here: https://github.com/jokies/yaaw-android
 
 An already complied .apk file is included so you don't have to complie everything yourself. But I won't share my signing key, be awared, thanks.
 
@@ -60,8 +60,10 @@ Components
 + [jQuery](http://jquery.com/)
 + [jQuery Storage](http://archive.plugins.jquery.com/project/html5Storage)
 + [JSON RPC 2.0 jQuery Plugin](https://github.com/datagraph/jquery-jsonrpc)
++ [PhoneGap 2.9.0](https://github.com/phonegap/phonegap)
++ [PhoneGap 2.9.0](https://github.com/phonegap/phonegap-plugins)
 
 License
 -------
-yaaw is licensed under GNU Lesser General Public License.
+yaaw and yaaw-android is licensed under GNU Lesser General Public License.
 You may get a copy of the GNU Lesser General Public License from http://www.gnu.org/licenses/lgpl.txt
